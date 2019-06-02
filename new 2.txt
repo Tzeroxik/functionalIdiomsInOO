@@ -1,0 +1,11 @@
+functional patterns - functions, types and compositions
+
+* Referential transparency
+* immutability
+* pure functions 
+* total functions - input/output types are sets of all possible values
+* functions as parameters
+* some high order functions - map/fold/reduce...
+* cathegories - monoids, functor, applicative, monads.
+* using typed functional languages - Scala, F#...
+
